@@ -1,6 +1,11 @@
+/* Background propertites */
 body {
 background-color: #24268A;
 font-family: 'Bangers', cursive;
-font-size: 30px;
+font-size: 40px;
 align-self: auto;
+}
+
+h1 {
+    color: #FEDD39;
 }

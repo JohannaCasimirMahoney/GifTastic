@@ -1,3 +1,7 @@
+
+// TODO: Create docu ready function
+// TODO: Create an Array of Strings.Save it to a Variable called 'Topic' -- >
+// TODO: Get API Key-- >
 // TODO: Create user clicks on button / non - animated gif images-- >
 // TODO: Create user clicks on the STILL GHIPY images-- >
 // TODO: Place GIPGY API on page-- >
