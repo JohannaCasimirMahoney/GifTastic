@@ -23,6 +23,12 @@ $('document').ready(function () {
 // TODO: Create user clicks on the STILL GHIPY images-- >
 // TODO: Place GIPGY API on page-- >
 // TODO: Creat AJAX URL
+   $.ajax({
+    url: queryURL,
+    method: "GET"
+}).then(function (response) {
+    console.log(response);
+});
 // TODO: Under evey gif, diplay its rating-- >
 // TODO: Add a form to the page-- >
 // TODO: Create vaule for the form for user input box and adds it into my 'Topic array' -- >
