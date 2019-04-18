@@ -21,27 +21,7 @@ $('document').ready(function () {
         'Tweety Bird',
         'Wile E Coyote'];
 
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 // TODO: Place GIPGY API on page-- >
 var APIKey = "nPMtSnokNV7yOlwbU1DYxwYcywrpFTJq";

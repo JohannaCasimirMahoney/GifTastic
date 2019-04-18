@@ -5,13 +5,37 @@ font-family: 'Bangers', cursive;
 font-size: 40px;
 align-self: auto;
 }
-
+/* Title */
 h1 {
     color: #EEE540;
 }
 
-.Bangers-font {
-color: #EEE540;
+/* Color and font for Add your favorite character */
+label{
+    color: #EEE540;
+    font-family: 'Bangers';
+}
+/* Button style */
+button {
+  display: inline-block;
+  padding: 3px 25px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  outline: none;
+  color: #fff;
+  background-color: rgb(27, 114, 30);
+  border: none;
+  border-radius: 10px;
+  
 }
 
+button:hover {background-color: #d73d0e}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px rgb(37, 11, 152);
+  transform: translateY(4px);
+}
 
