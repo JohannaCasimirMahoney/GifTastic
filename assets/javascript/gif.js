@@ -1,21 +1,46 @@
 
 // TODO: Create docu ready function
 $('document').ready(function () {
-    // TODO: Create an Array of Strings.Save it to a Variable called 'Topic' -- >
-    var topic = [
+    // // Be sure to read about these GIPHY parameters(hint, hint):
+    //  q``limit``rating`
+    var gifCount = 0;
+    var stopRating = 'PG';
 
-        'bugs bunny',
-        'elmyra duff',
-        'tasmanian devil',
-        'porky pig',
-        'elmer fudd',
-        'syvester the cat',
-        'daffy duck',
-        'yosemite same',
-        'tweety bird',
-        'wile e coyote'];
+    // Create an Array of Strings.Save it to a Variable called 'Topic' -- >
+
+    var topics = [
+
+        'Bugs Bunny',
+        'Elmyra Duff',
+        'Tasmanian Devil',
+        'Porky Pig',
+        'Elmer Fudd',
+        'Syvester The Cat',
+        'Daffy Duck',
+        'Yosemite Sam',
+        'Tweety Bird',
+        'Wile E Coyote'];
+
+
+
+
+
+
+
+
 
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 // TODO: Place GIPGY API on page-- >
