@@ -39,3 +39,27 @@ button:active {
   transform: translateY(4px);
 }
 
+/* Button style for tinytoon */
+.button1 {
+  display: inline-block;
+  padding: 3px 25px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  outline: none;
+  color: #fff;
+  background-color: #d73d0e;
+  border: none;
+  border-radius: 10px;
+  
+}
+
+button:hover {background-color: #d73d0e}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px rgb(37, 11, 152);
+  transform: translateY(4px);
+}
+
