@@ -16,7 +16,7 @@ In this assignment, I use the GIPHY API to make a dynamic web page that populate
 
 *Giphy API
 
-<a href=" https://johannacasimirmahoney.github.io/GifTastic/">TinyToons GifTastic</a>
+<a href="https://johannacasimirmahoney.github.io/GifTastic/">TinyToons GifTastic</a>
 
 <a href="https://github.com/JohannaCasimirMahoney/GifTastic">Get Code Here</a>
 
